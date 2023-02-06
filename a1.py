@@ -1,4 +1,1 @@
-import request
-class dog:
-  def person()
-  print('hello')
+input('请输入你想要的内容’)
